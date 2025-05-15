@@ -5,6 +5,7 @@ from cash_register import CashRegister
 import io
 import sys
 
+
 class TestCashRegister:
     '''CashRegister in cash_register.py'''
 
